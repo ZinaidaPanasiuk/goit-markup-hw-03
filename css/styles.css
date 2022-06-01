@@ -85,8 +85,6 @@ font-family: "Roboto", sans-serif;
 
 .main-nav {
     display: flex;
-    /* align-items: center; */
-    /* justify-content: space-between; */
 }
 
 .header-nav,
@@ -98,7 +96,6 @@ font-family: "Roboto", sans-serif;
     display: flex;
     margin-left: auto;
     align-items: center;
-    /* justify-content: space-between; */
 }
 
 
@@ -273,7 +270,6 @@ font-family: "Roboto", sans-serif;
 .team-list {
     display: flex;
     flex-wrap: wrap;
-    /* border: 1px solid #EEEEEE; */
 }
 
 .team-list .teame-item {
